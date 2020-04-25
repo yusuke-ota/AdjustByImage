@@ -6,7 +6,7 @@
 
 ## Package Version
 
-ARFoundation : 3.0.1  
-ARCore XR Plugin : 3.0.1
+ARFoundation : 3.1.3  
+ARCore XR Plugin : 3.1.3
 
 詳細はPackages/manifest.json参照
