@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5438900029218683827
+  m_GuidHigh: 11338665651040755373
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5448170762939740653
+      m_GuidHigh: 7400926001423769785
+    m_SerializedTextureGuid:
+      m_GuidLow: 4613024156241659590
+      m_GuidHigh: 3723828229323448553
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Block
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5108518041510622359
+      m_GuidHigh: 4028643703041091513
+    m_SerializedTextureGuid:
+      m_GuidLow: 9558028552360041153
+      m_GuidHigh: 9563136451809188683
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Stone
+    m_Texture: {fileID: 0}
