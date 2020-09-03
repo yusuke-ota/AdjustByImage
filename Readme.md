@@ -1,5 +1,7 @@
 # AdjustByImage
 
+詳しい説明は[Assets/AdjustByImage/Readme.md](https://github.com/yusuke-ota/AdjustByImage/blob/master/Assets/AdjustByImage/Readme.md)を読んでください。
+
 ## Unity Version
 
 2019.3.2f1
